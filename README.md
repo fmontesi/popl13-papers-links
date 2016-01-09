@@ -156,7 +156,7 @@ Day 2
 
 ----
 
-[Deadlock-freedom-by-design: multiparty asynchronous global programming.](http://itu.dk/~fabr/papers/multichor/chor_popl2013.pdf)
+[Deadlock-freedom-by-design: multiparty asynchronous global programming.](http://www.fabriziomontesi.com/files/cm13.pdf)
 * M. Carbone
 * F. Montesi
 
